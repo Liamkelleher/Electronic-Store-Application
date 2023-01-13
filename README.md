@@ -1,4 +1,4 @@
-# Electronic-Store-Application
+# Electronic Store Application
 
 Description:
   - Applied the MCV paradigm to build a GUI of an online store model which simulates the purchasing of electronic
